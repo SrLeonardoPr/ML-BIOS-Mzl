@@ -1,5 +1,3 @@
 # Proyecto Final Machine Learning BIOS
-## Presentado por = 
-- Jose Leonardo Piñeres
-- Nicolas Cortes
+## Realizado por Jose Leonardo Piñeres y Nicolas Cortes
 
