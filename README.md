@@ -1,2 +1,5 @@
-# ML-BIOS-Mzl
-Proyecto colaborativo de Machine Learning. 
+# Proyecto Final Machine Learning BIOS
+## Presentado por = 
+- Jose Leonardo Piñeres
+- Nicolas Cortes
+
